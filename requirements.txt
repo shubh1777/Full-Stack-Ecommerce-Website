@@ -1,1 +1,5 @@
 tailwindcss@latest
+@tailwindcss/aspect-ratio
+@tailwindcss/forms
+@headlessui/react
+@heroicons/react
