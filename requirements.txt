@@ -3,3 +3,4 @@ tailwindcss@latest
 @tailwindcss/forms
 @headlessui/react
 @heroicons/react
+react-router-dom
