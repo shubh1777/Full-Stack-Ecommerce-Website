@@ -4,3 +4,4 @@ tailwindcss@latest
 @headlessui/react
 @heroicons/react
 react-router-dom
+json-server
